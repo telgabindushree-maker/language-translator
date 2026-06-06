@@ -1,2 +1,3 @@
 # language-translator
 A Language Translation Tool Using Artificial Intelligence (AI) is a software application that automatically converts text or speech from one language to another using AI techniques such as Machine Learning (ML) and Natural Language Processing (NLP).
+The main objective of the Language Translation Tool is to help users communicate across different languages quickly and efficiently. It eliminates language barriers and enables seamless communication between people from different regions and cultures.This project demonstrates the practical use of AI in solving real-world communication challenges.
